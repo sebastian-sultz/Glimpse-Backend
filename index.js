@@ -7,7 +7,7 @@ const AuthRouter = require('./Routes/AuthRouter');
 const eraRoutes = require('./Routes/eraRoutes');
 const path = require("path");
 
-const futureNoteRoutes = require('./routes/futureNotes');
+const futureNoteRoutes = require('./Routes/futureNotes');
 
 
 require('dotenv').config();
